@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\codin\Mymidterm\bin\Debug\net6.0\Mymidterm.exe
+C:\Users\ACER\Desktop\codin\Mymidterm\bin\Debug\net6.0\Mymidterm.deps.json
+C:\Users\ACER\Desktop\codin\Mymidterm\bin\Debug\net6.0\Mymidterm.runtimeconfig.json
+C:\Users\ACER\Desktop\codin\Mymidterm\bin\Debug\net6.0\Mymidterm.dll
+C:\Users\ACER\Desktop\codin\Mymidterm\bin\Debug\net6.0\Mymidterm.pdb
+C:\Users\ACER\Desktop\codin\Mymidterm\obj\Debug\net6.0\Mymidterm.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\codin\Mymidterm\obj\Debug\net6.0\Mymidterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\codin\Mymidterm\obj\Debug\net6.0\Mymidterm.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\codin\Mymidterm\obj\Debug\net6.0\Mymidterm.AssemblyInfo.cs
+C:\Users\ACER\Desktop\codin\Mymidterm\obj\Debug\net6.0\Mymidterm.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\codin\Mymidterm\obj\Debug\net6.0\Mymidterm.dll
+C:\Users\ACER\Desktop\codin\Mymidterm\obj\Debug\net6.0\refint\Mymidterm.dll
+C:\Users\ACER\Desktop\codin\Mymidterm\obj\Debug\net6.0\Mymidterm.pdb
+C:\Users\ACER\Desktop\codin\Mymidterm\obj\Debug\net6.0\Mymidterm.genruntimeconfig.cache
+C:\Users\ACER\Desktop\codin\Mymidterm\obj\Debug\net6.0\ref\Mymidterm.dll
